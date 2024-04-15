@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noctural93
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full stack Web Development
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me : mail-id: gowtham313754@gmail.com
 
